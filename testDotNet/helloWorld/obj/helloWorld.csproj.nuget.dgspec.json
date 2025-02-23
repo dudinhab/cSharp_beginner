@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samue\\testDotNet\\helloWorld\\helloWorld.csproj": {}
+    "c:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\helloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samue\\testDotNet\\helloWorld\\helloWorld.csproj": {
+    "c:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\helloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samue\\testDotNet\\helloWorld\\helloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\helloWorld.csproj",
         "projectName": "helloWorld",
-        "projectPath": "C:\\Users\\Samue\\testDotNet\\helloWorld\\helloWorld.csproj",
+        "projectPath": "c:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\helloWorld.csproj",
         "packagesPath": "C:\\Users\\Samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samue\\testDotNet\\helloWorld\\obj\\",
+        "outputPath": "c:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
