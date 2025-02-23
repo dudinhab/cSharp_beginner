@@ -1,1 +1,3 @@
-# c-_beginner
+# c#_beginner
+
+Starting to learn C#
