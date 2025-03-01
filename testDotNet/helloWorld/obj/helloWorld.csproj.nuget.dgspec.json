@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\helloWorld.csproj": {}
+    "c:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\helloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\helloWorld.csproj": {
+    "c:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\helloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\helloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\helloWorld.csproj",
         "projectName": "helloWorld",
-        "projectPath": "c:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\helloWorld.csproj",
-        "packagesPath": "C:\\Users\\Samue\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\obj\\",
+        "projectPath": "c:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\helloWorld.csproj",
+        "packagesPath": "C:\\Users\\dudab\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dudab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

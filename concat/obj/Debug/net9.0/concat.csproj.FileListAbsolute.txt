@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\bin\Debug\net9.0\concat.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\bin\Debug\net9.0\concat.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\bin\Debug\net9.0\concat.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\bin\Debug\net9.0\concat.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\bin\Debug\net9.0\concat.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\obj\Debug\net9.0\concat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\obj\Debug\net9.0\concat.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\obj\Debug\net9.0\concat.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\obj\Debug\net9.0\concat.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\obj\Debug\net9.0\concat.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\obj\Debug\net9.0\concat.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\obj\Debug\net9.0\refint\concat.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\obj\Debug\net9.0\concat.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\obj\Debug\net9.0\concat.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\concat\obj\Debug\net9.0\ref\concat.dll
