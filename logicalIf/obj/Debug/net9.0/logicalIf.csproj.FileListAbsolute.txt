@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\obj\Debug\net9.0\logicalIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\obj\Debug\net9.0\logicalIf.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\obj\Debug\net9.0\logicalIf.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\obj\Debug\net9.0\logicalIf.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\obj\Debug\net9.0\logicalIf.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\bin\Debug\net9.0\logicalIf.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\bin\Debug\net9.0\logicalIf.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\bin\Debug\net9.0\logicalIf.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\bin\Debug\net9.0\logicalIf.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\bin\Debug\net9.0\logicalIf.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\obj\Debug\net9.0\logicalIf.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\obj\Debug\net9.0\refint\logicalIf.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\obj\Debug\net9.0\logicalIf.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\obj\Debug\net9.0\logicalIf.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\logicalIf\obj\Debug\net9.0\ref\logicalIf.dll

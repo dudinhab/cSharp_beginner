@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\obj\Debug\net9.0\foundMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\obj\Debug\net9.0\foundMethod.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\obj\Debug\net9.0\foundMethod.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\obj\Debug\net9.0\foundMethod.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\obj\Debug\net9.0\foundMethod.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\bin\Debug\net9.0\foundMethod.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\bin\Debug\net9.0\foundMethod.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\bin\Debug\net9.0\foundMethod.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\bin\Debug\net9.0\foundMethod.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\bin\Debug\net9.0\foundMethod.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\obj\Debug\net9.0\foundMethod.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\obj\Debug\net9.0\refint\foundMethod.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\obj\Debug\net9.0\foundMethod.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\obj\Debug\net9.0\foundMethod.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\foundMethod\obj\Debug\net9.0\ref\foundMethod.dll

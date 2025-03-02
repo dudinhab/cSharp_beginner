@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\helloWorld.csproj": {}
+    "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\class\\class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\helloWorld.csproj": {
+    "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\class\\class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\helloWorld.csproj",
-        "projectName": "helloWorld",
-        "projectPath": "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\helloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\class\\class.csproj",
+        "projectName": "class",
+        "projectPath": "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\class\\class.csproj",
         "packagesPath": "C:\\Users\\dudab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\obj\\",
+        "outputPath": "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dudab\\AppData\\Roaming\\NuGet\\NuGet.Config"
