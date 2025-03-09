@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\obj\Debug\net9.0\idVerify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\obj\Debug\net9.0\idVerify.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\obj\Debug\net9.0\idVerify.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\obj\Debug\net9.0\idVerify.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\obj\Debug\net9.0\idVerify.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\bin\Debug\net9.0\idVerify.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\bin\Debug\net9.0\idVerify.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\bin\Debug\net9.0\idVerify.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\bin\Debug\net9.0\idVerify.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\bin\Debug\net9.0\idVerify.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\obj\Debug\net9.0\idVerify.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\obj\Debug\net9.0\refint\idVerify.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\obj\Debug\net9.0\idVerify.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\obj\Debug\net9.0\idVerify.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\idVerify\obj\Debug\net9.0\ref\idVerify.dll
