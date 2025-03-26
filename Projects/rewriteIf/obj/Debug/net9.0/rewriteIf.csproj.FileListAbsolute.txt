@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\obj\Debug\net9.0\rewriteIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\obj\Debug\net9.0\rewriteIf.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\obj\Debug\net9.0\rewriteIf.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\obj\Debug\net9.0\rewriteIf.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\obj\Debug\net9.0\rewriteIf.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\bin\Debug\net9.0\rewriteIf.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\bin\Debug\net9.0\rewriteIf.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\bin\Debug\net9.0\rewriteIf.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\bin\Debug\net9.0\rewriteIf.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\bin\Debug\net9.0\rewriteIf.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\obj\Debug\net9.0\rewriteIf.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\obj\Debug\net9.0\refint\rewriteIf.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\obj\Debug\net9.0\rewriteIf.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\obj\Debug\net9.0\rewriteIf.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\rewriteIf\obj\Debug\net9.0\ref\rewriteIf.dll

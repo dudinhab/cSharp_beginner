@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\obj\Debug\net9.0\headsOrTails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\obj\Debug\net9.0\headsOrTails.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\obj\Debug\net9.0\headsOrTails.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\obj\Debug\net9.0\headsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\obj\Debug\net9.0\headsOrTails.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\bin\Debug\net9.0\headsOrTails.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\bin\Debug\net9.0\headsOrTails.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\bin\Debug\net9.0\headsOrTails.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\bin\Debug\net9.0\headsOrTails.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\bin\Debug\net9.0\headsOrTails.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\obj\Debug\net9.0\headsOrTails.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\obj\Debug\net9.0\refint\headsOrTails.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\obj\Debug\net9.0\headsOrTails.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\obj\Debug\net9.0\headsOrTails.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\headsOrTails\obj\Debug\net9.0\ref\headsOrTails.dll

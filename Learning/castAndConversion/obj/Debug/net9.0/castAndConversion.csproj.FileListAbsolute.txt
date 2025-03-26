@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\obj\Debug\net9.0\castAndConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\obj\Debug\net9.0\castAndConversion.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\obj\Debug\net9.0\castAndConversion.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\obj\Debug\net9.0\castAndConversion.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\obj\Debug\net9.0\castAndConversion.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\bin\Debug\net9.0\castAndConversion.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\bin\Debug\net9.0\castAndConversion.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\bin\Debug\net9.0\castAndConversion.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\bin\Debug\net9.0\castAndConversion.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\bin\Debug\net9.0\castAndConversion.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\obj\Debug\net9.0\castAndConversion.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\obj\Debug\net9.0\refint\castAndConversion.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\obj\Debug\net9.0\castAndConversion.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\obj\Debug\net9.0\castAndConversion.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\castAndConversion\obj\Debug\net9.0\ref\castAndConversion.dll

@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\bin\Debug\net9.0\codeBlocks.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\bin\Debug\net9.0\codeBlocks.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\bin\Debug\net9.0\codeBlocks.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\bin\Debug\net9.0\codeBlocks.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\bin\Debug\net9.0\codeBlocks.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\obj\Debug\net9.0\codeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\obj\Debug\net9.0\codeBlocks.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\obj\Debug\net9.0\codeBlocks.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\obj\Debug\net9.0\codeBlocks.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\obj\Debug\net9.0\codeBlocks.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\obj\Debug\net9.0\codeBlocks.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\obj\Debug\net9.0\refint\codeBlocks.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\obj\Debug\net9.0\codeBlocks.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\obj\Debug\net9.0\codeBlocks.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\codeBlocks\obj\Debug\net9.0\ref\codeBlocks.dll

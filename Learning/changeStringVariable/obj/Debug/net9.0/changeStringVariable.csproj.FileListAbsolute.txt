@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\obj\Debug\net9.0\changeStringVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\obj\Debug\net9.0\changeStringVariable.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\obj\Debug\net9.0\changeStringVariable.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\obj\Debug\net9.0\changeStringVariable.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\obj\Debug\net9.0\changeStringVariable.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\bin\Debug\net9.0\changeStringVariable.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\bin\Debug\net9.0\changeStringVariable.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\bin\Debug\net9.0\changeStringVariable.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\bin\Debug\net9.0\changeStringVariable.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\bin\Debug\net9.0\changeStringVariable.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\obj\Debug\net9.0\changeStringVariable.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\obj\Debug\net9.0\refint\changeStringVariable.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\obj\Debug\net9.0\changeStringVariable.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\obj\Debug\net9.0\changeStringVariable.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\changeStringVariable\obj\Debug\net9.0\ref\changeStringVariable.dll

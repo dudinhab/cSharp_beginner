@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\bin\Debug\net9.0\variableType.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\bin\Debug\net9.0\variableType.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\bin\Debug\net9.0\variableType.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\bin\Debug\net9.0\variableType.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\bin\Debug\net9.0\variableType.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\obj\Debug\net9.0\variableType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\obj\Debug\net9.0\variableType.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\obj\Debug\net9.0\variableType.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\obj\Debug\net9.0\variableType.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\obj\Debug\net9.0\variableType.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\obj\Debug\net9.0\variableType.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\obj\Debug\net9.0\refint\variableType.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\obj\Debug\net9.0\variableType.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\obj\Debug\net9.0\variableType.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\variableType\obj\Debug\net9.0\ref\variableType.dll

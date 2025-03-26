@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\obj\Debug\net9.0\fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\obj\Debug\net9.0\fizzBuzz.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\obj\Debug\net9.0\fizzBuzz.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\obj\Debug\net9.0\fizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\obj\Debug\net9.0\fizzBuzz.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\bin\Debug\net9.0\fizzBuzz.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\bin\Debug\net9.0\fizzBuzz.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\bin\Debug\net9.0\fizzBuzz.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\bin\Debug\net9.0\fizzBuzz.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\bin\Debug\net9.0\fizzBuzz.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\obj\Debug\net9.0\fizzBuzz.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\obj\Debug\net9.0\refint\fizzBuzz.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\obj\Debug\net9.0\fizzBuzz.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\obj\Debug\net9.0\fizzBuzz.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\fizzBuzz\obj\Debug\net9.0\ref\fizzBuzz.dll

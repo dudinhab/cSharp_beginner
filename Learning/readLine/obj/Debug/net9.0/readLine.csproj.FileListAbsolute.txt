@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\bin\Debug\net9.0\readLine.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\bin\Debug\net9.0\readLine.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\bin\Debug\net9.0\readLine.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\bin\Debug\net9.0\readLine.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\bin\Debug\net9.0\readLine.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\obj\Debug\net9.0\readLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\obj\Debug\net9.0\readLine.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\obj\Debug\net9.0\readLine.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\obj\Debug\net9.0\readLine.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\obj\Debug\net9.0\readLine.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\obj\Debug\net9.0\readLine.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\obj\Debug\net9.0\refint\readLine.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\obj\Debug\net9.0\readLine.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\obj\Debug\net9.0\readLine.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Learning\readLine\obj\Debug\net9.0\ref\readLine.dll

@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\bin\Debug\net9.0\trueOrFalse.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\bin\Debug\net9.0\trueOrFalse.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\bin\Debug\net9.0\trueOrFalse.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\bin\Debug\net9.0\trueOrFalse.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\bin\Debug\net9.0\trueOrFalse.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\obj\Debug\net9.0\trueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\obj\Debug\net9.0\trueOrFalse.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\obj\Debug\net9.0\trueOrFalse.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\obj\Debug\net9.0\trueOrFalse.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\obj\Debug\net9.0\trueOrFalse.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\obj\Debug\net9.0\trueOrFalse.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\obj\Debug\net9.0\refint\trueOrFalse.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\obj\Debug\net9.0\trueOrFalse.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\obj\Debug\net9.0\trueOrFalse.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\trueOrFalse\obj\Debug\net9.0\ref\trueOrFalse.dll

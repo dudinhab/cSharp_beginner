@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\obj\Debug\net9.0\between5and10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\obj\Debug\net9.0\between5and10.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\obj\Debug\net9.0\between5and10.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\obj\Debug\net9.0\between5and10.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\obj\Debug\net9.0\between5and10.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\bin\Debug\net9.0\between5and10.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\bin\Debug\net9.0\between5and10.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\bin\Debug\net9.0\between5and10.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\bin\Debug\net9.0\between5and10.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\bin\Debug\net9.0\between5and10.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\obj\Debug\net9.0\between5and10.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\obj\Debug\net9.0\refint\between5and10.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\obj\Debug\net9.0\between5and10.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\obj\Debug\net9.0\between5and10.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\between5and10\obj\Debug\net9.0\ref\between5and10.dll

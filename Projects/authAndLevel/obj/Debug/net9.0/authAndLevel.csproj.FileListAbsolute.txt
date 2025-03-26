@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\bin\Debug\net9.0\authAndLevel.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\bin\Debug\net9.0\authAndLevel.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\bin\Debug\net9.0\authAndLevel.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\bin\Debug\net9.0\authAndLevel.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\bin\Debug\net9.0\authAndLevel.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\obj\Debug\net9.0\authAndLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\obj\Debug\net9.0\authAndLevel.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\obj\Debug\net9.0\authAndLevel.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\obj\Debug\net9.0\authAndLevel.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\obj\Debug\net9.0\authAndLevel.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\obj\Debug\net9.0\authAndLevel.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\obj\Debug\net9.0\refint\authAndLevel.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\obj\Debug\net9.0\authAndLevel.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\obj\Debug\net9.0\authAndLevel.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\authAndLevel\obj\Debug\net9.0\ref\authAndLevel.dll
