@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "asv7CdI+imQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Samue\\OneDrive\\Documents\\ProjetosGitDuda\\c-_beginner\\testDotNet\\helloWorld\\helloWorld.csproj",
+=======
+  "dgSpecHash": "lF1HFNgePco=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dudab\\OneDrive\\Documentos\\GitHub\\cSharp_beginner\\testDotNet\\helloWorld\\helloWorld.csproj",
+>>>>>>> e8326ff9e3dd0b943dfc9ff00c3e6c79a226076b
   "expectedPackageFiles": [],
   "logs": []
 }

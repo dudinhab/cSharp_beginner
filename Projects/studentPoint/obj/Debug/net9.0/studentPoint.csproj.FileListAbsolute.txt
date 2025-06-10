@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\obj\Debug\net9.0\studentPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\obj\Debug\net9.0\studentPoint.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\obj\Debug\net9.0\studentPoint.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\obj\Debug\net9.0\studentPoint.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\obj\Debug\net9.0\studentPoint.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\bin\Debug\net9.0\studentPoint.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\bin\Debug\net9.0\studentPoint.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\bin\Debug\net9.0\studentPoint.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\bin\Debug\net9.0\studentPoint.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\bin\Debug\net9.0\studentPoint.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\obj\Debug\net9.0\studentPoint.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\obj\Debug\net9.0\refint\studentPoint.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\obj\Debug\net9.0\studentPoint.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\obj\Debug\net9.0\studentPoint.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\studentPoint\obj\Debug\net9.0\ref\studentPoint.dll

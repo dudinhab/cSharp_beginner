@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\bin\Debug\net9.0\invertArray.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\bin\Debug\net9.0\invertArray.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\bin\Debug\net9.0\invertArray.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\bin\Debug\net9.0\invertArray.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\bin\Debug\net9.0\invertArray.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\obj\Debug\net9.0\invertArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\obj\Debug\net9.0\invertArray.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\obj\Debug\net9.0\invertArray.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\obj\Debug\net9.0\invertArray.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\obj\Debug\net9.0\invertArray.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\obj\Debug\net9.0\invertArray.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\obj\Debug\net9.0\refint\invertArray.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\obj\Debug\net9.0\invertArray.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\obj\Debug\net9.0\invertArray.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\invertArray\obj\Debug\net9.0\ref\invertArray.dll

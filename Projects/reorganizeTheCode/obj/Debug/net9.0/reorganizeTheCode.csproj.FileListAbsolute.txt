@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\obj\Debug\net9.0\reorganizeTheCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\obj\Debug\net9.0\reorganizeTheCode.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\obj\Debug\net9.0\reorganizeTheCode.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\obj\Debug\net9.0\reorganizeTheCode.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\obj\Debug\net9.0\reorganizeTheCode.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\bin\Debug\net9.0\reorganizeTheCode.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\bin\Debug\net9.0\reorganizeTheCode.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\bin\Debug\net9.0\reorganizeTheCode.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\bin\Debug\net9.0\reorganizeTheCode.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\bin\Debug\net9.0\reorganizeTheCode.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\obj\Debug\net9.0\reorganizeTheCode.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\obj\Debug\net9.0\refint\reorganizeTheCode.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\obj\Debug\net9.0\reorganizeTheCode.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\obj\Debug\net9.0\reorganizeTheCode.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\reorganizeTheCode\obj\Debug\net9.0\ref\reorganizeTheCode.dll

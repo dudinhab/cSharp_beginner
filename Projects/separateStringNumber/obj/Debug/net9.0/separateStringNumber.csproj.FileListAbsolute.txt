@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\obj\Debug\net9.0\separateStringNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\obj\Debug\net9.0\separateStringNumber.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\obj\Debug\net9.0\separateStringNumber.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\obj\Debug\net9.0\separateStringNumber.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\obj\Debug\net9.0\separateStringNumber.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\bin\Debug\net9.0\separateStringNumber.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\bin\Debug\net9.0\separateStringNumber.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\bin\Debug\net9.0\separateStringNumber.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\bin\Debug\net9.0\separateStringNumber.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\bin\Debug\net9.0\separateStringNumber.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\obj\Debug\net9.0\separateStringNumber.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\obj\Debug\net9.0\refint\separateStringNumber.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\obj\Debug\net9.0\separateStringNumber.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\obj\Debug\net9.0\separateStringNumber.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\separateStringNumber\obj\Debug\net9.0\ref\separateStringNumber.dll

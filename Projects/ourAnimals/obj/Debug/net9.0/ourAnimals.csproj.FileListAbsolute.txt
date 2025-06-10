@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\bin\Debug\net9.0\ourAnimals.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\bin\Debug\net9.0\ourAnimals.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\bin\Debug\net9.0\ourAnimals.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\bin\Debug\net9.0\ourAnimals.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\bin\Debug\net9.0\ourAnimals.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\obj\Debug\net9.0\ourAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\obj\Debug\net9.0\ourAnimals.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\obj\Debug\net9.0\ourAnimals.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\obj\Debug\net9.0\ourAnimals.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\obj\Debug\net9.0\ourAnimals.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\obj\Debug\net9.0\ourAnimals.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\obj\Debug\net9.0\refint\ourAnimals.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\obj\Debug\net9.0\ourAnimals.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\obj\Debug\net9.0\ourAnimals.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\ourAnimals\obj\Debug\net9.0\ref\ourAnimals.dll

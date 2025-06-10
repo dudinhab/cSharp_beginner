@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\obj\Debug\net9.0\inputFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\obj\Debug\net9.0\inputFunction.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\obj\Debug\net9.0\inputFunction.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\obj\Debug\net9.0\inputFunction.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\obj\Debug\net9.0\inputFunction.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\bin\Debug\net9.0\inputFunction.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\bin\Debug\net9.0\inputFunction.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\bin\Debug\net9.0\inputFunction.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\bin\Debug\net9.0\inputFunction.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\bin\Debug\net9.0\inputFunction.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\obj\Debug\net9.0\inputFunction.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\obj\Debug\net9.0\refint\inputFunction.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\obj\Debug\net9.0\inputFunction.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\obj\Debug\net9.0\inputFunction.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\inputFunction\obj\Debug\net9.0\ref\inputFunction.dll

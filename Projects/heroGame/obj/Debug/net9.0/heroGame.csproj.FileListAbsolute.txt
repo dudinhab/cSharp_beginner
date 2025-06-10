@@ -1,0 +1,15 @@
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\obj\Debug\net9.0\heroGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\obj\Debug\net9.0\heroGame.AssemblyInfoInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\obj\Debug\net9.0\heroGame.AssemblyInfo.cs
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\obj\Debug\net9.0\heroGame.csproj.CoreCompileInputs.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\obj\Debug\net9.0\heroGame.sourcelink.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\bin\Debug\net9.0\heroGame.exe
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\bin\Debug\net9.0\heroGame.deps.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\bin\Debug\net9.0\heroGame.runtimeconfig.json
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\bin\Debug\net9.0\heroGame.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\bin\Debug\net9.0\heroGame.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\obj\Debug\net9.0\heroGame.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\obj\Debug\net9.0\refint\heroGame.dll
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\obj\Debug\net9.0\heroGame.pdb
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\obj\Debug\net9.0\heroGame.genruntimeconfig.cache
+C:\Users\dudab\OneDrive\Documentos\GitHub\cSharp_beginner\Projects\heroGame\obj\Debug\net9.0\ref\heroGame.dll
